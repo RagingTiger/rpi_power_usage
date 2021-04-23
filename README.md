@@ -10,9 +10,7 @@ Simply click:
 https://github.com/RagingTiger/rpi_power_usage/blob/master/rpi4_power_usage.ipynb
 
 # Usage
-Below we will discuss running the `JupyterLab` server. Keep in mind that for
-security reasons you will be asked to enter a `password`. This is necessary to
-prevent specific `browser-based` security threats.
+Below we will discuss running the `JupyterLab` server. 
 
 ## Docker
 `Docker` will be the primary way discussed for running the `JupyterLab` server.
